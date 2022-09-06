@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+}
+
+.scoreboard {
+  height: 200px;
+  width: 400px;
+  background-color: blue;
+}
+
+#click-count {
+  color: red;
+  font-weight: bold;
+}
